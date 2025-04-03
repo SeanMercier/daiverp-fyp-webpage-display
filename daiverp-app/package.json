@@ -2,7 +2,7 @@
   "name": "daiverp-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seanmercier.github.io/daiverp-fyp-app",
+  "homepage": "https://seanmercier.github.io/daiverp-fyp-webpage-display",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
