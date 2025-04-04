@@ -1,0 +1,27 @@
+.tools-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+  }
+  
+  .tool {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+  }
+  
+  .tool img {
+    width: 60px;
+    height: auto;
+    margin-bottom: 0.5rem;
+  }
+  
+  .tool p {
+    font-weight: 600;
+    color: #1f2937;
+    margin: 0;
+  }
+  
