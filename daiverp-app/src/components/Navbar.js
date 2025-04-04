@@ -6,6 +6,7 @@ function Navbar() {
     <nav className="navbar">
       <ul>
         <li><a href="#about">About</a></li>
+        <li><a href="#workflow">Workflow</a></li>
         <li><a href="#model">Model</a></li>
         <li><a href="#tools">Tools</a></li>
         <li><a href="#demo">Demo</a></li>
